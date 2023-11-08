@@ -2,11 +2,11 @@ using System;
 using System.Collections;
 using Google.XR.ARCoreExtensions;
 using Google.XR.ARCoreExtensions.Samples.Geospatial;
-using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
+using TMPro;
 namespace AR_Fukuoka
 {
     public class PlacingObjAtLatLngAlt : MonoBehaviour
@@ -57,7 +57,7 @@ namespace AR_Fukuoka
             if (pose.OrientationYawAccuracy > HeadingThreshold ||
                   pose.HorizontalAccuracy > HorizontalThreshold)
             {
-                status = "Low Tracking Accuracy： Please look arround.";
+                status = "Low Tracking Accuracy: Please look arround.";
             }
             else
             {

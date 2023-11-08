@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <projectSettings>
-  <projectSetting name="com.google.external-dependency-managerAnalyticsCookie" value="00b8a695347c42b4bd7eb8ceebed562b" />
+  <projectSetting name="com.google.external-dependency-managerAnalyticsCookie" value="5a2ef776380f401ba2ca30b821860ac6" />
   <projectSetting name="com.google.external-dependency-managerAnalyticsEnabled" value="True" />
   <projectSetting name="Google.IOSResolver.VerboseLoggingEnabled" value="False" />
   <projectSetting name="Google.PackageManagerResolver.VerboseLoggingEnabled" value="False" />
   <projectSetting name="Google.VersionHandler.VerboseLoggingEnabled" value="False" />
   <projectSetting name="GooglePlayServices.AndroidPackageInstallationEnabled" value="True" />
   <projectSetting name="GooglePlayServices.AutoResolutionDisabledWarning" value="True" />
-  <projectSetting name="GooglePlayServices.AutoResolveOnBuild" value="False" />
+  <projectSetting name="GooglePlayServices.AutoResolveOnBuild" value="True" />
   <projectSetting name="GooglePlayServices.AutoResolverEnabled" value="False" />
   <projectSetting name="GooglePlayServices.ExplodeAars" value="True" />
   <projectSetting name="GooglePlayServices.LocalMavenRepoDir" value="Assets/GeneratedLocalRepo" />

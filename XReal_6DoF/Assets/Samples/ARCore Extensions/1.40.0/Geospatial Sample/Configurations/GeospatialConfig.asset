@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CloudAnchorMode: 0
   SemanticMode: 0
-  GeospatialMode: 2
+  GeospatialMode: 0
   StreetscapeGeometryMode: 0
